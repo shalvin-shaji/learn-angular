@@ -9,7 +9,9 @@ html {
 }
 
 body {
-  font-family: "Poppins", sans-serif;
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
   background: radial-gradient(circle at top left, #181023, #0b0519);
   color: #c3b3d8;
   margin: 0;
